@@ -1,16 +1,14 @@
-### Hi there 👋
+### Hi there thanks for checking out my profile👋
 
-<!--
-**brilvio/brilvio** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Fernando and I am a software developer in Brazil.
 
-Here are some ideas to get you started:
+I have more than **17 years** of software development.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I am currently working as senior backend developer for an e-commerce company in Brazil, mostly working with **Django Framework** and services writen in **Python** in a micro-service event-driven enviroment using **AWS Cloud**.
+
+Technologies that I used during my carrer Delphi, PHP, Node, Nestjs, Typescript, Vue, Python.
+
+[![Brilvio's GitHub stats](https://github-readme-stats.vercel.app/api?username=brilvio&show_icons=true&theme=dracula&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+
+| <a href="https://github.com/brilvio"><img align="center" src="https://github-readme-stats.vercel.app/api/wakatime?username=brilvio&theme=dracula&hide_border=true" /></a> | <a href="https://github.com/brilvio"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact&theme=dracula&hide_border=true" /></a> | 
+| :---- | ------------------: |
