@@ -1,4 +1,6 @@
-### Hi there thanks for checking out my profile👋
+## Hi there thanks for checking out my profile👋
+
+### About me
 
 My name is Fernando and I am a software developer in Brazil.
 
@@ -8,7 +10,9 @@ I am currently working as senior backend developer for an e-commerce company in 
 
 Technologies that I used during my carrer Delphi, PHP, Node, Nestjs, Typescript, Vue, Python.
 
+### My Stats:
+
 <picture>
-  <img src="/github-metrics.svg" alt="Metrics">
+  <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
