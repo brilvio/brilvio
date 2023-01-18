@@ -13,6 +13,6 @@ Technologies that I used during my carrer Delphi, PHP, Node, Nestjs, Typescript,
 ### My Stats:
 
 <picture>
-  <img align="center" src="/github-metrics.svg" alt="Metrics" width="100%">
+  <img src="/github-metrics.svg" alt="Metrics" width="100%">
 </picture>
 
