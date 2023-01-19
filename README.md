@@ -8,7 +8,7 @@ I have more than **17 years** of software development.
 
 I am currently working as senior backend developer for an e-commerce company in Brazil, mostly working with **Django Framework** and services writen in **Python** in a micro-service event-driven enviroment using **AWS Cloud**.
 
-Technologies that I used during my carrer Delphi, PHP, Node, Nestjs, Typescript, Vue, Python.
+Technologies that I used during my career Delphi, PHP, Node, Nestjs, Typescript, Vue, Python.
 
 ### My Stats:
 
