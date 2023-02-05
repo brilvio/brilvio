@@ -11,6 +11,7 @@ I am currently working as senior backend developer for an e-commerce company in 
 Technologies that I used during my career Delphi, PHP, Node, Nestjs, Typescript, Vue, Python.
 
 ### My Stats:
+<a href="https://app.daily.dev/DailyDevTips"><img src="https://github.com/brilvio/brilvio/blob/master/devcard.svg" width="400" alt="Brilvio's Dev Card"/></a>
 
 <picture>
   <img src="/github-metrics.svg" alt="Metrics" width="120%">
