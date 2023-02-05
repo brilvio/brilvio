@@ -58,4 +58,13 @@ jobs:
           plugin_wakatime_sections: time, languages, languages-graphs, editors, os
           plugin_wakatime_url: https://wakatime.com
           plugin_wakatime_user: brilvio
-          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}      
+  devcard:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - name: devcard
+        uses: dailydotdev/action-devcard@2.0.6
+        with:
+          devcard_id: ${{ secrets.DEVCARD_ID }}
