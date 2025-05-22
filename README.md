@@ -4,11 +4,11 @@
 
 My name is Fernando and I am a software developer in Brazil.
 
-I have more than **17 years** of software development.
+I have more than **19 years** of software development.
 
-I am currently working as senior backend developer for an e-commerce company in Brazil, mostly working with **Django Framework** and services writen in **Python** in a micro-service event-driven enviroment using **AWS Cloud**.
+I am currently working as specialist software developer for company in Brazil, mostly working with **Django Framework**, **FastAPI** and services writen in **Python** in a micro-service event-driven enviroment using **AWS Cloud**.
 
-Technologies that I used during my career Delphi, PHP, Node, Nestjs, Typescript, Vue, Python.
+Technologies that I used during my career Delphi, PHP, Node, Nestjs, Typescript, Vue, Python, GoLang, Rust.
 
 ### My Stats:
 <a href="https://app.daily.dev/brilvio"><img src="https://api.daily.dev/devcards/v2/GvhE9JdXz.png?r=1to" width="356" alt="Fernando Derkoski's Dev Card"/></a>
